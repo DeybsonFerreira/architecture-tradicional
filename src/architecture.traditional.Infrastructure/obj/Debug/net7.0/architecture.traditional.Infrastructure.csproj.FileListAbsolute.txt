@@ -1,0 +1,17 @@
+C:\GIT\architecture.traditional\src\architecture.traditional.Infrastructure\bin\Debug\net7.0\architecture.traditional.Infrastructure.deps.json
+C:\GIT\architecture.traditional\src\architecture.traditional.Infrastructure\bin\Debug\net7.0\architecture.traditional.Infrastructure.runtimeconfig.json
+C:\GIT\architecture.traditional\src\architecture.traditional.Infrastructure\bin\Debug\net7.0\architecture.traditional.Infrastructure.dll
+C:\GIT\architecture.traditional\src\architecture.traditional.Infrastructure\bin\Debug\net7.0\architecture.traditional.Infrastructure.pdb
+C:\GIT\architecture.traditional\src\architecture.traditional.Infrastructure\bin\Debug\net7.0\architecture.traditional.Infrastructure.Data.dll
+C:\GIT\architecture.traditional\src\architecture.traditional.Infrastructure\bin\Debug\net7.0\architecture.traditional.Infrastructure.Data.pdb
+C:\GIT\architecture.traditional\src\architecture.traditional.Infrastructure\obj\Debug\net7.0\architecture.traditional.Infrastructure.csproj.AssemblyReference.cache
+C:\GIT\architecture.traditional\src\architecture.traditional.Infrastructure\obj\Debug\net7.0\architecture.traditional.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\architecture.traditional\src\architecture.traditional.Infrastructure\obj\Debug\net7.0\architecture.traditional.Infrastructure.AssemblyInfoInputs.cache
+C:\GIT\architecture.traditional\src\architecture.traditional.Infrastructure\obj\Debug\net7.0\architecture.traditional.Infrastructure.AssemblyInfo.cs
+C:\GIT\architecture.traditional\src\architecture.traditional.Infrastructure\obj\Debug\net7.0\architecture.traditional.Infrastructure.csproj.CoreCompileInputs.cache
+C:\GIT\architecture.traditional\src\architecture.traditional.Infrastructure\obj\Debug\net7.0\architecture.traditional.Infrastructure.csproj.CopyComplete
+C:\GIT\architecture.traditional\src\architecture.traditional.Infrastructure\obj\Debug\net7.0\architecture.traditional.Infrastructure.dll
+C:\GIT\architecture.traditional\src\architecture.traditional.Infrastructure\obj\Debug\net7.0\refint\architecture.traditional.Infrastructure.dll
+C:\GIT\architecture.traditional\src\architecture.traditional.Infrastructure\obj\Debug\net7.0\architecture.traditional.Infrastructure.pdb
+C:\GIT\architecture.traditional\src\architecture.traditional.Infrastructure\obj\Debug\net7.0\architecture.traditional.Infrastructure.genruntimeconfig.cache
+C:\GIT\architecture.traditional\src\architecture.traditional.Infrastructure\obj\Debug\net7.0\ref\architecture.traditional.Infrastructure.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "architecture.traditional.Infrastructure.Data/1.0.0": {
+        "runtime": {
+          "architecture.traditional.Infrastructure.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "architecture.traditional.Infrastructure.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

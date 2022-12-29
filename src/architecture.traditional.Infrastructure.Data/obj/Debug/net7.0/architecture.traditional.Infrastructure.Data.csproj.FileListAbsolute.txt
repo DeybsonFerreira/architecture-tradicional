@@ -1,0 +1,12 @@
+C:\GIT\architecture.traditional\src\architecture.traditional.Infrastructure.Data\obj\Debug\net7.0\architecture.traditional.Infrastructure.Data.csproj.AssemblyReference.cache
+C:\GIT\architecture.traditional\src\architecture.traditional.Infrastructure.Data\obj\Debug\net7.0\architecture.traditional.Infrastructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\architecture.traditional\src\architecture.traditional.Infrastructure.Data\obj\Debug\net7.0\architecture.traditional.Infrastructure.Data.AssemblyInfoInputs.cache
+C:\GIT\architecture.traditional\src\architecture.traditional.Infrastructure.Data\obj\Debug\net7.0\architecture.traditional.Infrastructure.Data.AssemblyInfo.cs
+C:\GIT\architecture.traditional\src\architecture.traditional.Infrastructure.Data\obj\Debug\net7.0\architecture.traditional.Infrastructure.Data.csproj.CoreCompileInputs.cache
+C:\GIT\architecture.traditional\src\architecture.traditional.Infrastructure.Data\bin\Debug\net7.0\architecture.traditional.Infrastructure.Data.deps.json
+C:\GIT\architecture.traditional\src\architecture.traditional.Infrastructure.Data\bin\Debug\net7.0\architecture.traditional.Infrastructure.Data.dll
+C:\GIT\architecture.traditional\src\architecture.traditional.Infrastructure.Data\bin\Debug\net7.0\architecture.traditional.Infrastructure.Data.pdb
+C:\GIT\architecture.traditional\src\architecture.traditional.Infrastructure.Data\obj\Debug\net7.0\architecture.traditional.Infrastructure.Data.dll
+C:\GIT\architecture.traditional\src\architecture.traditional.Infrastructure.Data\obj\Debug\net7.0\refint\architecture.traditional.Infrastructure.Data.dll
+C:\GIT\architecture.traditional\src\architecture.traditional.Infrastructure.Data\obj\Debug\net7.0\architecture.traditional.Infrastructure.Data.pdb
+C:\GIT\architecture.traditional\src\architecture.traditional.Infrastructure.Data\obj\Debug\net7.0\ref\architecture.traditional.Infrastructure.Data.dll

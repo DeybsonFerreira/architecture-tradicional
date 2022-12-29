@@ -1,0 +1,17 @@
+C:\GIT\architecture.traditional\src\architecture.traditional.Domain\bin\Debug\net7.0\architecture.traditional.Domain.deps.json
+C:\GIT\architecture.traditional\src\architecture.traditional.Domain\bin\Debug\net7.0\architecture.traditional.Domain.dll
+C:\GIT\architecture.traditional\src\architecture.traditional.Domain\bin\Debug\net7.0\architecture.traditional.Domain.pdb
+C:\GIT\architecture.traditional\src\architecture.traditional.Domain\bin\Debug\net7.0\architecture.traditional.Infrastructure.Data.dll
+C:\GIT\architecture.traditional\src\architecture.traditional.Domain\bin\Debug\net7.0\architecture.traditional.Infrastructure.dll
+C:\GIT\architecture.traditional\src\architecture.traditional.Domain\bin\Debug\net7.0\architecture.traditional.Infrastructure.pdb
+C:\GIT\architecture.traditional\src\architecture.traditional.Domain\bin\Debug\net7.0\architecture.traditional.Infrastructure.Data.pdb
+C:\GIT\architecture.traditional\src\architecture.traditional.Domain\obj\Debug\net7.0\architecture.traditional.Domain.csproj.AssemblyReference.cache
+C:\GIT\architecture.traditional\src\architecture.traditional.Domain\obj\Debug\net7.0\architecture.traditional.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\architecture.traditional\src\architecture.traditional.Domain\obj\Debug\net7.0\architecture.traditional.Domain.AssemblyInfoInputs.cache
+C:\GIT\architecture.traditional\src\architecture.traditional.Domain\obj\Debug\net7.0\architecture.traditional.Domain.AssemblyInfo.cs
+C:\GIT\architecture.traditional\src\architecture.traditional.Domain\obj\Debug\net7.0\architecture.traditional.Domain.csproj.CoreCompileInputs.cache
+C:\GIT\architecture.traditional\src\architecture.traditional.Domain\obj\Debug\net7.0\architecture.traditional.Domain.csproj.CopyComplete
+C:\GIT\architecture.traditional\src\architecture.traditional.Domain\obj\Debug\net7.0\architecture.traditional.Domain.dll
+C:\GIT\architecture.traditional\src\architecture.traditional.Domain\obj\Debug\net7.0\refint\architecture.traditional.Domain.dll
+C:\GIT\architecture.traditional\src\architecture.traditional.Domain\obj\Debug\net7.0\architecture.traditional.Domain.pdb
+C:\GIT\architecture.traditional\src\architecture.traditional.Domain\obj\Debug\net7.0\ref\architecture.traditional.Domain.dll

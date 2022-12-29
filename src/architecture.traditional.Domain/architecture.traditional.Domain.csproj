@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\architecture.traditional.Infrastructure\architecture.traditional.Infrastructure.csproj" />
+    <ProjectReference Include="..\architecture.traditional.Infrastructure.Data\architecture.traditional.Infrastructure.Data.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+  </PropertyGroup>
+
+</Project>
